@@ -2,6 +2,9 @@
 Multi-Currency Momentum &amp; Trend Dashboard Stop guessing which currency pairs to trade. The Strength Score Panel is an all-in-one visual dashboard designed to help you instantly identify the strongest and weakest currencies across the market in real time.
 By scanning all 28 major and cross currency pairs simultaneously, this indicator calculates a precise strength score for the 8 major currencies (USD, EUR, JPY, NZD, CAD, GBP, CHF, AUD), allowing you to pair the strongest currency against the weakest for high-probability setups.
 
+<img width="933" height="565" alt="CaptureStrenghScor" src="https://github.com/user-attachments/assets/37c6441a-5edf-4fb2-8d05-02620df0cac2" />
+
+
 Key Features
 
 • 28-Pair Real-Time Scanner: Automatically analyzes all 28 major currency pairs to deliver accurate, live strength rankings on a clean 0–100 scale.
@@ -24,3 +27,4 @@ Specifications
 
 • Timeframes: Works on all timeframes (M1 to MN)
 
+You can get this indicator <a href="https://feygelya.gumroad.com/l/fqiape" target="_blank">here</a>
