@@ -19,5 +19,8 @@ How to Use It
 Specifications
 
 • Platform: MetaTrader 5
+
 • Pairs Monitored: All 28 Major & Cross Pairs
+
 • Timeframes: Works on all timeframes (M1 to MN)
+
