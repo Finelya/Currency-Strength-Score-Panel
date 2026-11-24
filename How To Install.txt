@@ -1,0 +1,11 @@
+Extract the downloaded Zip file, then copy the .ex5 file (green).
+After that,
+1. Open your MT5.
+2. Click the File Menu -> Open Data Folder.
+3. Click the MQL5 Folder -> Select the Expert Folder.
+4. Paste the .ex5 file into the Expert folder.
+5. Restart (close and then reopen) your MT5.
+6. In the Navigator (under your login account name), find the Expert Advisor (under the "Indicators" heading).
+7. Select the .ex5 file name you just pasted.
+8. Drag it to the desired chart; uncheck "auto trade."
+9. Adjust the zone to your liking, then click "OK."
