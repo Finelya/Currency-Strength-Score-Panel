@@ -6,14 +6,20 @@ By scanning all 28 major and cross currency pairs simultaneously, this indicator
 
 <img width="933" height="565" alt="CaptureStrenghScor" src="https://github.com/user-attachments/assets/37c6441a-5edf-4fb2-8d05-02620df0cac2" />
 
+Screenshot from November 11, during the CPI news
 
 Key Features
 
 • 28-Pair Real-Time Scanner: Automatically analyzes all 28 major currency pairs to deliver accurate, live strength rankings on a clean 0–100 scale.
+
 • Weighted Scoring Logic: Uses a custom multi-factor weighting formula (40 / 30 / 20 / 10) to filter out market noise and highlight true momentum shifts.
+
 • Color-Coded Visual Bars: Instantly spot bullish leaders (green), neutral currencies (grey), and bearish laggards (red) at a glance.
+
 • Built-In Candle Countdown Timer: Displays the exact time remaining until the current candle closes so you can time your entries with precision.
+
 • Clean & Lightweight UI: Features a modern, dark-themed dashboard with a manual Refresh button and last-update timestamp that won't clutter your chart or slow down your terminal.
+
 
 How to Use It
 
