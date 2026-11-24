@@ -6,7 +6,7 @@ By scanning all 28 major and cross currency pairs simultaneously, this indicator
 
 <img width="933" height="565" alt="CaptureStrenghScor" src="https://github.com/user-attachments/assets/37c6441a-5edf-4fb2-8d05-02620df0cac2" />
 
-Screenshot from November 11, during the CPI news
+Screenshot from November 10, during the CPI news
 
 Key Features
 
